@@ -1,0 +1,153 @@
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\obj\x86\Debug\Modbus.Form1.resources
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\obj\x86\Debug\Modbus.Properties.Resources.resources
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\bin\Debug\Modbus.exe
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\bin\Debug\Modbus.pdb
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\obj\x86\Debug\Modbus.exe
+C:\Documents and Settings\Kitch\桌面\Demo\Modbus\Modbus\obj\x86\Debug\Modbus.pdb
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\obj\x86\Debug\Modbus.exe
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\obj\x86\Debug\Modbus.pdb
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\obj\x86\Debug\Modbus.Form1.resources
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\obj\x86\Debug\Modbus.Properties.Resources.resources
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\bin\Debug\Modbus.exe
+C:\Documents and Settings\Kitch\桌面\Demo\复件 Modbus\Modbus\bin\Debug\Modbus.pdb
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.exe
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.Form1.resources
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.Properties.Resources.resources
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\bin\Debug\Modbus.exe
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\bin\Debug\Modbus.pdb
+Z:\新建文件夹\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.pdb
+Z:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.exe
+Z:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.pdb
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.exe
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.pdb
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\bin\Debug\Modbus.exe
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\bin\Debug\Modbus.pdb
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.csprojResolveAssemblyReference.cache
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.Form1.resources
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.Properties.Resources.resources
+E:\学习资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.csproj.GenerateResource.Cache
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.exe
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.pdb
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\bin\Debug\Modbus.exe
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\bin\Debug\Modbus.pdb
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.csprojResolveAssemblyReference.cache
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.Form1.resources
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.Properties.Resources.resources
+E:\其他资料\Visual\Project\Modbus TCPIP OK\Modbus TCPIP OK\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.csproj.GenerateResource.Cache
+E:\其他资料\Visual\新建文件夹\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.exe
+E:\其他资料\Visual\新建文件夹\Modbus TCPIP OK\Modbus\obj\x86\Debug\Modbus.pdb
+C:\Users\Alan.zhang\Desktop\Modbus TCP\Modbus TCP\Modbus\obj\x86\Debug\Modbus.exe
+C:\Users\Alan.zhang\Desktop\Modbus TCP\Modbus TCP\Modbus\obj\x86\Debug\Modbus.pdb
+E:\RS\标准化文件\Modbus TCP\Modbus TCP\Modbus\obj\x86\Debug\Modbus.exe
+E:\RS\标准化文件\Modbus TCP\Modbus TCP\Modbus\obj\x86\Debug\Modbus.pdb
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\obj\x86\Debug\Modbus.exe
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\obj\x86\Debug\Modbus.pdb
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\obj\x86\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\obj\x86\Debug\Modbus.Form1.resources
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\obj\x86\Debug\Modbus.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\obj\x86\Debug\Modbus.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\bin\Debug\Modbus.exe
+C:\Users\Administrator\Desktop\Modbus TCP\Modbus\bin\Debug\Modbus.pdb
+D:\C#\TCPIP测试\Modbus\bin\Debug\Modbus.exe
+D:\C#\TCPIP测试\Modbus\bin\Debug\Modbus.pdb
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.csprojAssemblyReference.cache
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.Form1.resources
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.Properties.Resources.resources
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.csproj.GenerateResource.cache
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.csproj.CoreCompileInputs.cache
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.exe
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.pdb
+D:\C#\TCPIP测试\Modbus\bin\Debug\HslCommunication.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\Newtonsoft.Json.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\HslCommunication.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\Newtonsoft.Json.xml
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.csproj.CopyComplete
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Data.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Images.v18.1.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Data.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\C#\TCPIP测试\Modbus\obj\x86\Debug\Modbus.exe.licenses
